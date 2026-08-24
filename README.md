@@ -55,16 +55,7 @@
 
 ## 🎯 About Me
 
-I'm a physician-science student and biotech entrepreneur bridging clinical medicine with cutting-edge wet-lab research. As an MD candidate and CEO of **Virelion Biotech**, I combine expertise in stem cell engineering, cardiac biology, and translational therapeutics to develop the next generation of regenerative medicine solutions.
-
-### Core Expertise
-
-- 🏥 **Clinical Medicine**: Disease pathology, patient care, clinical reasoning
-- 🧫 **Stem Cell Biology**: iPSC generation, differentiation, maturation
-- ❤️ **Cardiac Biology**: Cardiomyocyte engineering, regeneration, disease modeling
-- 🔬 **Molecular Biology**: Gene editing, molecular profiling, functional assays
-- 🧬 **Genomics**: RNA-seq preparation, experimental design, data integration
-- 💊 **Drug Development**: Target identification, therapeutic validation, translation
+I'm a medical student and biotech entrepreneur bridging clinical medicine with cutting-edge wet-lab research. As an MD candidate and CEO of **Virelion Biotech**, I combine expertise in stem cell engineering, cardiac biology, and translational therapeutics to develop the next generation of regenerative medicine solutions.
 
 ## 🚀 Featured Research Programs
 
@@ -116,15 +107,5 @@ Studying conserved regulatory programs that control cardiomyocyte proliferation 
 - 🐦 **X**: [@SyedUmerHannan](https://twitter.com/SyedUmerHannan)
 - 📧 **Email**: your.email@virelion.biotech
 - 🌐 **Virelion Biotech**: www.virelion.biotech
-
-## 🤝 Collaboration
-
-Interested in:
-
-- 🔬 Research partnerships and validation studies
-- 🏆 Translational research and clinical development
-- 🏥 Clinical collaborations and patient-derived models
-- 💡 Biotechnology platforms and technology integration
-- 🎓 Physician-scientist mentorship
 
 > *"Bridging bench discovery and clinical reality to transform patient outcomes."*
