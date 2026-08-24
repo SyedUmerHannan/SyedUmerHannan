@@ -1,10 +1,10 @@
 # 👋 Syed Umer Hannan
 
-**CEO @ Virelion Biotech** | MD Candidate | Experimental Biologist | Physician-Scientist
+**CEO @ Virelion Biotech** | MD Candidate | Experimental Biologist
 
 ## 🎯 About Me
 
-I'm a physician-scientist and biotech entrepreneur bridging clinical medicine with cutting-edge wet-lab research. As an MD candidate and CEO of **Virelion Biotech**, I combine expertise in stem cell biology and regenerative medicine with clinical insight to develop therapeutics addressing unmet needs in cardiac disease.
+I'm a physician-science student and biotech entrepreneur bridging clinical medicine with cutting-edge wet-lab research. As an MD candidate and CEO of **Virelion Biotech**, I combine expertise in stem cell biology and regenerative medicine with clinical insight to develop therapeutics addressing unmet needs in cardiac disease.
 
 ### Core Expertise
 
