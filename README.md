@@ -95,17 +95,11 @@ Studying conserved regulatory programs that control cardiomyocyte proliferation 
 - **Target Discovery**: Identifying therapeutic pathways through molecular profiling
 - **Therapeutic Development**: Discovery → preclinical validation → clinical translation
 
-## Training & Background
-
-- **MD Candidate** – Medical School
-- **Research Focus** – Regenerative medicine, stem cell biology, translational therapeutics
-- **Leadership** – CEO, Virelion Biotech
-
 ## Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/syedumerhannan](https://linkedin.com/in/syedumerhannan)
 - **X**: [@SyedUmerHannan](https://twitter.com/SyedUmerHannan)
-- **Email**: your.email@virelion.biotech
-- **Virelion Biotech**: www.virelion.biotech
+- **Email**: syedumerhannan@icloud.com
+- **Virelion Biotech**: www.virelionbiotech.netlify.app
 
 > *"Bridging bench discovery and clinical reality to transform patient outcomes."*
