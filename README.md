@@ -53,11 +53,11 @@ MD Candidate | Experimental Biologist | **CEO @ Virelion Biotech**
     .=#@@@@@@@@@@@@@@+           :#@@%##%%-                 =@@@@@@@@@@@@@@@@@@@@@@
 
 
-## 🎯 About Me
+## About Me
 
 I'm a medical student trying to bridge clinical medicine with wet-lab research. As an MD candidate and CEO of **Virelion Biotech**, I combine expertise in stem cell engineering, cardiac biology, and translational therapeutics to try and develop the next generation of regenerative medicine solutions.
 
-## 🚀 Featured Research Programs
+## Featured Research Programs
 
 ### [Cardiomyocyte Maturation Engineering](https://github.com/SyedUmerHannan/cardiomyocyte_maturation)
 
@@ -75,7 +75,7 @@ Studying conserved regulatory programs that control cardiomyocyte proliferation 
 
 **Translation:** Regenerative cardiology | Heart failure therapeutics | Cardiac repair
 
-## 🛠️ Laboratory & Technical Skills
+## Laboratory & Technical Skills
 
 | Expertise | Tools & Techniques |
 |-----------|-------------------|
@@ -86,26 +86,26 @@ Studying conserved regulatory programs that control cardiomyocyte proliferation 
 | **Microscopy** | Immunofluorescence, confocal, high-content imaging |
 | **Computational** | Bioinformatics, data integration, biomarker validation |
 
-## 🏢 Virelion Biotech
+## Virelion Biotech
 
 **Virelion Biotech** focuses on physician-scientist-led translational research, connecting clinical needs with laboratory discovery.
 
-- ❤️ **Regenerative Cardiology**: Engineering functional cells and tissues for cardiac repair
-- 🧫 **Disease Modeling**: Clinically relevant cellular models for drug discovery
-- 🔍 **Target Discovery**: Identifying therapeutic pathways through molecular profiling
-- 💊 **Therapeutic Development**: Discovery → preclinical validation → clinical translation
+- **Regenerative Cardiology**: Engineering functional cells and tissues for cardiac repair
+- **Disease Modeling**: Clinically relevant cellular models for drug discovery
+- **Target Discovery**: Identifying therapeutic pathways through molecular profiling
+- **Therapeutic Development**: Discovery → preclinical validation → clinical translation
 
-## 🎓 Training & Background
+## Training & Background
 
 - **MD Candidate** – Medical School
 - **Research Focus** – Regenerative medicine, stem cell biology, translational therapeutics
 - **Leadership** – CEO, Virelion Biotech
 
-## 🔗 Connect With Me
+## Connect With Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/syedumerhannan](https://linkedin.com/in/syedumerhannan)
-- 🐦 **X**: [@SyedUmerHannan](https://twitter.com/SyedUmerHannan)
-- 📧 **Email**: your.email@virelion.biotech
-- 🌐 **Virelion Biotech**: www.virelion.biotech
+- **LinkedIn**: [linkedin.com/in/syedumerhannan](https://linkedin.com/in/syedumerhannan)
+- **X**: [@SyedUmerHannan](https://twitter.com/SyedUmerHannan)
+- **Email**: your.email@virelion.biotech
+- **Virelion Biotech**: www.virelion.biotech
 
 > *"Bridging bench discovery and clinical reality to transform patient outcomes."*
